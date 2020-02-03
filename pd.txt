@@ -1,0 +1,5 @@
+
+ait config --global user.name "prateek.devashetti@vitstudent.ac.in
+ait config --global user.name "prateek.devashetti@vitstudent.ac.in
+grppppparp
+
